@@ -1,1 +1,1 @@
-alert('learning arrays')
+alert('learning arrays')  // once this alert pops up, delete this line of code
