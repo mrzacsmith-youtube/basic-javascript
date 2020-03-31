@@ -1,1 +1,1 @@
-alert('testing arrays')
+alert('learning arrays')

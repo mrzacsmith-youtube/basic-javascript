@@ -9,7 +9,7 @@ Each topic will have a folder and inside a template webpage that allows you to u
 ## Video Topics:
 
 - [Working with Objects](https://github.com/mrzacsmith-youtube/basic-javascript/tree/master/objects)
-- Working with Arrays
+- [Working with Arrays](https://github.com/mrzacsmith-youtube/basic-javascript/tree/master/arrays)
 - Use .map and .filter
 - Jest testing I
 - Jest testing II
