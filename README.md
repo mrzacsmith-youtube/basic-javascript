@@ -10,7 +10,7 @@ Each topic will have a folder and inside a template webpage that allows you to u
 
 - [Working with Objects](https://github.com/mrzacsmith-youtube/basic-javascript/tree/master/objects)
 - [Working with Arrays](https://github.com/mrzacsmith-youtube/basic-javascript/tree/master/arrays)
-- Sorting Strings, Arrays
+- [Sorting Strings, Arrays](https://github.com/mrzacsmith-youtube/basic-javascript/tree/master/sorting)
 - Set up and use NodeJS instead of browser
 - Use .map and .filter
 - Jest testing I
